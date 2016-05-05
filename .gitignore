@@ -27,7 +27,7 @@ logs/
 config/
 build/
 usernamecache.json
-servers.day
+servers.dat
 options.txt
 forge-1.8-11.14.4.1563-changelog.txt
 README.txt
