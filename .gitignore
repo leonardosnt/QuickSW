@@ -1,0 +1,33 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run
+bin/
+run/
+saves/
+logs/
+config/
+build/
+usernamecache.json
+servers.day
+options.txt
+forge-1.8-11.14.4.1563-changelog.txt
+README.txt
